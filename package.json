@@ -1,6 +1,6 @@
 {
   "name": "derby-parsing",
-  "version": "0.4.2",
+  "version": "0.4.2a",
   "description": "Add HTML template parsing to Derby",
   "main": "lib/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "url": "https://github.com/codeparty/derby-parsing/issues"
   },
   "dependencies": {
-    "derby-templates": "^0.3.3",
+    "derby-templates": "git+https://github.com/CrocJS/derby-templates.git",
     "esprima-derby": "^0.1.0",
     "html-util": "^0.2.0"
   },
