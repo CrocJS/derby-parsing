@@ -1,6 +1,6 @@
 {
   "name": "derby-parsing",
-  "version": "0.4.2b",
+  "version": "0.4.2c",
   "description": "Add HTML template parsing to Derby",
   "main": "lib/index.js",
   "scripts": {
